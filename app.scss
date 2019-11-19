@@ -1,9 +1,11 @@
 // @import 'yoga';
 // @import 'normalize';
 
-$fa-font-path: '//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
-@import 'font-awesome';
-@import 'box-sizing';
+$fa-font-path: '/webfonts';
+@import 'scss/fontawesome.scss';
+@import 'scss/solid.scss';
+@import 'scss/brands.scss';
+//@import 'box-sizing';
 
 $c-grey: #b3b3b3;
 $c-dark: #4a4a4a;
