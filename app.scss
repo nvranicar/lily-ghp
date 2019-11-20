@@ -1,7 +1,7 @@
 // @import 'yoga';
 // @import 'normalize';
 
-$fa-font-path: '/webfonts';
+$fa-font-path: 'webfonts';
 @import 'scss/fontawesome.scss';
 @import 'scss/solid.scss';
 @import 'scss/brands.scss';
@@ -35,12 +35,12 @@ p {
 
 @font-face {
   font-family: "Typewriter";
-  src: url("/fonts/LUCKY_TYPEWRITER.ttf");
+  src: url("fonts/LUCKY_TYPEWRITER.ttf");
 }
 
 @font-face {
   font-family: 'Harrington';
-  src: url('/fonts/HARRINGTON.ttf');
+  src: url('fonts/HARRINGTON.ttf');
 }
 
 .li-ly {
