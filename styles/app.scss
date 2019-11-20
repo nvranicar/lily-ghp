@@ -1,10 +1,10 @@
 // @import 'yoga';
 // @import 'normalize';
 
-$fa-font-path: 'webfonts';
-@import 'scss/fontawesome.scss';
-@import 'scss/solid.scss';
-@import 'scss/brands.scss';
+$fa-font-path: '../webfonts';
+@import '../scss/fontawesome.scss';
+@import '../scss/solid.scss';
+@import '../scss/brands.scss';
 //@import 'box-sizing';
 
 $c-grey: #b3b3b3;
